@@ -2,7 +2,6 @@ package Page;
 
 import Utilities.BrowserUtils;
 import Utilities.Driver;
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLPortType;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebElement;
